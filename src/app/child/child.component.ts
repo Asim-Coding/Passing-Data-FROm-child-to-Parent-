@@ -11,5 +11,5 @@ export class ChildComponent implements OnInit {
   @Input() item = 0;
   ngOnInit() {
   }
-
-}
+  
+    }
